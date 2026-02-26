@@ -1,0 +1,1 @@
+alert('Logged Out');
